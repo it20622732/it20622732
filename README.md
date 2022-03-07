@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-it20622732/it20622732 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Himasha Nethmini/it20622732 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
